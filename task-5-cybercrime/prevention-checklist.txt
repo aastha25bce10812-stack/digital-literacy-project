@@ -1,0 +1,63 @@
+Stay Safe Online:
+
+  1. Your PIN is for sending, never receiving
+        If someone asks you to enter your UPI PIN or scan a
+        QR code to get a refund, cashback, or prize — that's
+        a scam. Period. Money comes to you automatically;
+        no PIN needed.
+
+  2. Always check the name before hitting "Pay"
+        Before confirming any payment, verify the recipient's
+        name shown on the app — not just the number. Fraudsters
+        use numbers close to real contacts. Two seconds of
+        checking can save thousands.
+
+  3. Never trust a screenshot as payment proof
+        Selling something online? Check your bank or UPI app
+        for the credit notification — not the buyer's screenshot.
+        Fake "Payment Successful" images are embarrassingly
+        easy to make.
+
+  4. OTP, PIN, CVV — not even for "bank officials"
+        No real bank, app, or police officer will ever call
+        and ask for your OTP or PIN. If someone does: hang up
+        immediately. Sharing it even once can drain your account
+        in seconds.
+
+  5. Use different passwords for different accounts
+        If your Instagram password is the same as your banking
+        password — fix that today. Use a free password manager
+        like Bitwarden to create and remember unique passwords
+        for every account.
+
+
+  6. Ignore unsolicited "KYC update" or "job offer" links
+        Random links in SMS or WhatsApp claiming KYC expiry,
+        courier delivery, or a Rs.50k/month job? They install
+        spyware or steal your credentials. When in doubt —
+        don't click.
+
+  7. Lock your payment apps with biometrics
+        Enable fingerprint or face lock on GPay, PhonePe, and
+        Paytm — separate from your phone lock. If your phone is
+        stolen and unlocked, your money stays protected.
+
+  8. Keep your apps and OS updated
+        Updates aren't just new features — they patch security
+        holes that hackers actively exploit. Enable auto-updates
+        on your phone so you're never running vulnerable software.
+
+
+   IF SOMETHING GOES WRONG — ACT IN THE NEXT FEW MINUTES
+
+
+  CALL 1930  —  National Cyber Crime Helpline
+               Call immediately after a financial fraud.
+               Speed matters; they can sometimes block the
+               transfer before it settles.
+
+  cybercrime.gov.in  —  National Cyber Crime Portal
+               File a detailed complaint online. Also report
+               fake profiles and scam calls via the Chakshu
+               feature on the Sanchar Saathi portal.
+
