@@ -1,7 +1,7 @@
 # digital-literacy-project
-# Digital Literacy and Online Safety
+ Digital Literacy and Online Safety
 
-## Project Overview
+ Project Overview
 This project explores the importance of **digital literacy** and **online safety** for first-year Computer Science Engineering students.  
 It focuses on developing practical digital skills that are essential for academic success, professional growth, and safe participation in the online world.
 
