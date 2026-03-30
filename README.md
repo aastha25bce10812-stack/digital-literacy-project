@@ -170,5 +170,7 @@ This project provided a strong foundation in using digital tools effectively, co
 As a first-year Computer Science student, these learnings will help in academics, projects, internships, and future career development.
 
 LinkedIn-  https://www.linkedin.com/in/aastha-2583b2379/
+
 Kaggle -  https://www.kaggle.com/aastha0214
+
 Google Form -  https://docs.google.com/forms/d/e/1FAIpQLSeSX-QI9I-ws3ZNlH6rBXJBWkyOLYek6wN0LLXP4iXtancLIA/viewform?usp=publish-editor&pli=1&authuser=0
