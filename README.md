@@ -1,7 +1,7 @@
 # digital-literacy-project
  Digital Literacy and Online Safety
 
- Project Overview
+ Project Overview:
 This project explores the importance of **digital literacy** and **online safety** for first-year Computer Science Engineering students.  
 It focuses on developing practical digital skills that are essential for academic success, professional growth, and safe participation in the online world.
 
@@ -22,7 +22,7 @@ Submitted By
 **Course Code:** CSE0001  
 **Date:** 30-03-2026  
 
- Objectives
+ Objectives:
 The main objectives of this project are:
 
 - To understand the concept of **digital literacy**
@@ -33,7 +33,7 @@ The main objectives of this project are:
 - To improve **digital communication skills**
 - To create awareness about **UPI and online payment fraud**
 
- Project Contents
+ Project Contents:
 
 Task 1: Digital Tools and Safe Internet Practices
 This task focused on introducing useful tools and safe online habits.
